@@ -31,7 +31,7 @@ This plugin provides a simple but effective solution to keep your product review
 ---
 
 ## ⚙️ Installation
-1. Upload the `spam-defender-wooreview-captcha` directory to the `/wp-content/plugins/` directory.
+1. Upload the `spam-defender-review-captcha-for-woocommerce` directory to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the ‘Plugins’ menu in WordPress.
 3. Navigate to **Dashboard > Settings > Woocommerce Review Captcha** and click to configure reCaptcha API setup.
 
