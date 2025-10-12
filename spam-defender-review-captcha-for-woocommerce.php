@@ -8,6 +8,7 @@ Author: Raisul Islam Shagor
 Requires at least: 4.8
 Tested up to: 6.8
 Requires PHP: 7.0
+Requires Plugins: woocommerce
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Contributors: shagor447
