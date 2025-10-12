@@ -32,7 +32,6 @@ function sdwc_sanitize_keys( $input ) {
     return $output;
 }
 
-// Action
 function sdwc_settings_page_html() {
     $keys = get_option('sdwc_recaptcha_keys', array('site_key' => '', 'secret_key' => ''));
     ?>
