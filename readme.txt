@@ -46,19 +46,16 @@ It connects to the Google reCAPTCHA service in two ways:
 
 == Frequently Asked Questions ==
 
-= Does this work only with WooCommerce reviews?
-=  
+= Does this work only with WooCommerce reviews? =  
 Yes, this plugin specifically adds captcha to WooCommerce product review forms.
 
-= Do I need to configure anything?
-=  
+= Do I need to configure anything? =  
 Yes, once activated, you’ll need to enter your reCAPTCHA API credentials to complete the setup.
 
 = Is it compatible with other captcha plugins? =  
 This plugin is specifically designed for WooCommerce product reviews. However, if you use another plugin for the same purpose, it may cause conflicts.
 
-= Will it affect site performance?
-=  
+= Will it affect site performance? =  
 No, the plugin is lightweight and optimized for speed.
 
 == Screenshots ==
@@ -71,7 +68,6 @@ No, the plugin is lightweight and optimized for speed.
 * Initial release.
 * Added captcha to WooCommerce product review form.
 * Prevents review submission without solving captcha.
-* Added woocommerce requirement.
 
 == Upgrade Notice ==
 = 1.0.1 =
