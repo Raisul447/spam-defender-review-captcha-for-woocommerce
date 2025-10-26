@@ -72,3 +72,9 @@ No, the plugin is lightweight and optimized for speed.
 ## 📢 Update Notice
 = 1.0.1 =
 First stable release – adds captcha protection to WooCommerce product reviews.
+
+## ⚖️ License & Copyright
+- Copyright © **Raisul Islam Shagor** 
+- Email: deploy@raisul.dev
+- Website: https://raisul.dev/
+- Conatct: https://raisul.dev/contact
