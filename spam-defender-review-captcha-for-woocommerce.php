@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: Spam Defender – Review Captcha for WooCommerce
-Plugin URI: https://github.com/Raisul447/spam-defender-review-captcha-for-woocommerce
+Plugin URI: https://raisul.dev/projects/spam-defender-secure-google-recaptcha-for-woocommerce-reviews
 Description: Adds Google reCAPTCHA to WooCommerce product reviews to prevent spam. Provides admin settings for reCAPTCHA Site Key and Secret Key.
 Version: 1.0.1
 Author: Raisul Islam Shagor
+Author URI: https://raisul.dev
 Requires at least: 4.8
 Tested up to: 6.8
 Requires PHP: 7.0
