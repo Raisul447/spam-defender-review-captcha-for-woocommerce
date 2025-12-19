@@ -8,10 +8,10 @@ Add captcha to WooCommerce product reviews. Prevent spam reviews and ensure only
 ## 📌 Plugin Information
 - **Contributors:** shagor447  
 - **Tags:** spam, captcha, reviews, woocommerce, security  
-- **Requires at least:** WordPress 4.8  
-- **Tested up to:** WordPress 6.8  
-- **Requires PHP:** 7.0  
-- **Stable tag:** 1.0.1 
+- **Requires at least:** WordPress 6.0  
+- **Tested up to:** WordPress 6.9  
+- **Requires PHP:** 7.4  
+- **Stable tag:** 1.0.2 
 - **License:** [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)  
 
 ---
@@ -62,6 +62,11 @@ No, the plugin is lightweight and optimized for speed.
 
 ## 📝 Changelog
 
+### 1.0.2
+- Tested with the latest WordPress release.
+- Fixed minor bugs and performance issues.
+- Security checks and improvements applied.
+
 ### 1.0.1
 - Initial release.
 - Added captcha to WooCommerce product review form.
@@ -70,8 +75,8 @@ No, the plugin is lightweight and optimized for speed.
 ---
 
 ## 📢 Update Notice
-= 1.0.1 =
-First stable release – adds captcha protection to WooCommerce product reviews.
+= 1.0.2 =
+Version 1.0.2 has been released as a stable version.
 
 ## ⚖️ License & Copyright
 - Copyright © **Raisul Islam Shagor** 
