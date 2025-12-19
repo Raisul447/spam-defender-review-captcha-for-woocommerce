@@ -1,10 +1,10 @@
 === Spam Defender – Review Captcha for WooCommerce ===
 Contributors: shagor447
 Tags: spam, captcha, reviews, woocommerce, security
-Requires at least: 4.8
-Tested up to: 6.8
-Requires PHP: 7.0
-Stable tag: 1.0.1
+Requires at least: 6.0
+Tested up to: 6.9
+Requires PHP: 7.4
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires Plugins: woocommerce
@@ -64,11 +64,16 @@ No, the plugin is lightweight and optimized for speed.
 3. Error message shown if captcha is not solved.
 
 == Changelog ==
+
+= 1.0.2 =
+* Tested with the latest WordPress release.
+* Fixed minor bugs and performance issues.
+* Security checks and improvements applied.
+
 = 1.0.1 =
 * Initial release.
 * Added captcha to WooCommerce product review form.
 * Prevents review submission without solving captcha.
 
-== Upgrade Notice ==
-= 1.0.1 =
-First stable release – adds captcha protection to WooCommerce product reviews.
+= Update  Notice =
+Version 1.0.2 has been released as a stable version.
