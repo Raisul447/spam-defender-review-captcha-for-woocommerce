@@ -9,9 +9,9 @@ Add captcha to WooCommerce product reviews. Prevent spam reviews and ensure only
 - **Contributors:** shagor447  
 - **Tags:** spam, captcha, reviews, woocommerce, security  
 - **Requires at least:** WordPress 6.0  
-- **Tested up to:** WordPress 6.9  
+- **Tested up to:** WordPress 7.0  
 - **Requires PHP:** 7.4  
-- **Stable tag:** 1.0.2 
+- **Stable tag:** 1.2.0 
 - **License:** [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)  
 
 ---
@@ -22,11 +22,12 @@ This plugin provides a simple but effective solution to keep your product review
 ---
 
 ## ✨ Features
+- Support for both Google reCAPTCHA v2 and Cloudflare Turnstile.
 - Adds captcha to WooCommerce product review forms.
 - Blocks spam bots from auto-submitting fake reviews.
 - Lightweight and easy to use.
 - No coding knowledge required.
-- Compatible with latest versions of WordPress and WooCommerce. 
+- Compatible with latest versions of WordPress and WooCommerce.
 
 ---
 
@@ -55,12 +56,19 @@ No, the plugin is lightweight and optimized for speed.
 
 ## 🖼️ Screenshots
 1. reCAPTCHA API credentials configure page. ![reCAPTCHA API credentials configure page](assets/screenshot-1.png)
-2. Captcha displayed in WooCommerce product review form. ![Captcha displayed in WooCommerce product review form](assets/screenshot-2.png)
-3. Error message shown if captcha is not solved. ![Error message shown if captcha is not solved](assets/screenshot-3.png)
+2. Google reCAPTCHA displayed in WooCommerce product review form. ![Google reCAPTCHA displayed in WooCommerce product review form.](assets/screenshot-2.png)
+3. Cloudflare Turnstile displayed in WooCommerce product review form. ![Cloudflare Turnstile displayed in WooCommerce product review form.](assets/screenshot-3.png)
+4. Error message shown if captcha is not solved. ![Error message shown if captcha is not solved](assets/screenshot-4.png)
 
 ---
 
 ## 📝 Changelog
+
+### 1.2.0
+- Added support for Cloudflare Turnstile as a privacy-friendly, non-intrusive alternative to Google reCAPTCHA.
+- Redesigned the admin settings dashboard with a premium, responsive layout, interactive cards, status indicators, and detailed setup guides.
+- Fully tested and supported with the latest WordPress 7.0 release.
+
 
 ### 1.0.2
 - Tested with the latest WordPress release.
@@ -75,8 +83,8 @@ No, the plugin is lightweight and optimized for speed.
 ---
 
 ## 📢 Update Notice
-= 1.0.2 =
-Version 1.0.2 has been released as a stable version.
+= 1.2.0 =
+Version 1.2.0 has been released as a stable version with Cloudflare Turnstile support and a redesigned admin interface.
 
 ## ⚖️ License & Copyright
 - Copyright © **Raisul Islam Shagor** 
